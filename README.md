@@ -18,4 +18,9 @@ Mountains terrain. The population is mixed, namely Kurdish and Lur populate the 
 population of around 600,000~ give or take. Their population is estimated to increase by only $1∓$ percent annually.\
 \
 There have also been ancient civilization dig-sites dating around 5,200 years, among the oldest known civilizations 
-began right [here!](https://cdli.earth/search?simple-value%5B%5D=proto-elamite&simple-field%5B%5D=keyword)
+began right [here!](https://cdli.earth/search?simple-value%5B%5D=proto-elamite&simple-field%5B%5D=keyword) \
+\
+Currently, the map is not finished. I am working on the mountains of the map. I won't be doing huge Hellman style 
+mountains, more many, many small dots and spots in the map. This makes the map incredibly unfriendly to large 
+hordes and that's exactly the point. I don't want extremely large armies to roam the map. I want small skirmish-
+esque warfare.
