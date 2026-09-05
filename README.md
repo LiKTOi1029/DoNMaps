@@ -17,6 +17,5 @@ of Iran. A great portion of its geography consists of mountainous terrain and mo
 Mountains terrain. The population is mixed, namely Kurdish and Lur populate the province of Ilam with a total 
 population of around 600,000~ give or take. Their population is estimated to increase by only $1∓$ percent annually.\
 \
-There have also been ancient civilization dig-sites dating at least 9,000 years, among the oldest known settlements 
-and/or potential civilizations known to man also occurred [here](https://www.cambridge.org/core/journals/antiquity/article/first-possible-evidence-of-the-aceramic-neolithic-in-the-iranian-central-plateau/A32783655EE0E1ED43E598A7C1A713E4).
-
+There have also been ancient civilization dig-sites dating around 5,200 years, among the oldest known civilizations 
+began right [here!](https://cdli.earth/search?simple-value%5B%5D=proto-elamite&simple-field%5B%5D=keyword)
