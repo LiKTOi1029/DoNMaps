@@ -28,13 +28,14 @@ began right [here!](https://cdli.earth/search?simple-value%5B%5D=proto-elamite&s
 \
 Currently, the map is not finished. I am working on the mountains of the map. I won't be doing huge Hellman style 
 mountains, more many, many small dots and spots in the map. This makes the map incredibly unfriendly to large 
-hordes and that's exactly the point. I don't want extremely large armies to roam the map. I want small skirmish-
-esque warfare.\
+hordes and that's exactly the point. I don't want extremely large armies to roam the map. I want small skirmish-esque 
+warfare.\
 \
-As for the factions, there will be as many factions as there are villages/towns/cities/settlements of people in 
-modern day Ilam (12) hence, it won't have many factions on it. However, I will probably also make some other versions 
-of the map where other factions DO exist. This is something for a future update and not within the scope of my 
-current roadmap for this project.\
+As for the factions, there will be as many factions as the number of cities/settlements I choose to include (12)
+for now, [but there are more](https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Ilam_province). 
+hence, it won't have many factions on it. However, I will probably also make some other versions of the 
+map where other factions DO exist. This is something for a future update and not within the scope of my current 
+roadmap for this project.\
 \
 **ROADMAP\:**
 Grassy/Dirt Terrain :green_circle:\
