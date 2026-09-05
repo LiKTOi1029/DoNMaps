@@ -38,4 +38,6 @@ current roadmap for this project.\
 **ROADMAP\:**
 Grassy/Dirt Terrain :green_circle:\
 Mountainous Terrain :yellow_circle:\
-Factions :red_circle:
+Factions :red_circle:\
+\
+![Current Terrain](Iran/Ilam/Ilam.png?raw=true)
