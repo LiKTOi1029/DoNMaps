@@ -15,4 +15,8 @@ The province of Ilam in Iran, roughly the same geographical location as the anci
 is a spiritual successor to these ancient roots, thus the name. This province is on the borders of Iran on the west 
 of Iran. A great portion of its geography consists of mountainous terrain and most commonly known for its Zagros 
 Mountains terrain. The population is mixed, namely Kurdish and Lur populate the province of Ilam with a total 
-population of around 600,000~ give or take. Their population is estimated to increase by only $1∓%$ annually. 
+population of around 600,000~ give or take. Their population is estimated to increase by only $1∓$ percent annually.\
+\
+There have also been ancient civilization dig-sites dating at least 9,000 years, among the oldest known settlements 
+and/or potential civilizations known to man also occurred [here](https://www.cambridge.org/core/journals/antiquity/article/first-possible-evidence-of-the-aceramic-neolithic-in-the-iranian-central-plateau/A32783655EE0E1ED43E598A7C1A713E4).
+
