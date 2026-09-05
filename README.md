@@ -37,7 +37,7 @@ hence, it won't have many factions on it. However, I will probably also make som
 map where other factions DO exist. This is something for a future update and not within the scope of my current 
 roadmap for this project.\
 \
-**ROADMAP\:**
+**ROADMAP\:**\
 Grassy/Dirt Terrain :green_circle:\
 Mountainous Terrain :yellow_circle:\
 Factions :red_circle:\
