@@ -40,4 +40,4 @@ Grassy/Dirt Terrain :green_circle:\
 Mountainous Terrain :yellow_circle:\
 Factions :red_circle:\
 \
-![Current Terrain](Iran/Ilam/Ilam.png?raw=true)
+![Current Terrain](Nonfictional/Iran/Ilam/Ilam.png?raw=true)
