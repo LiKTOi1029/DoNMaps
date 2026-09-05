@@ -14,7 +14,8 @@ has seen updates.\
 **LEGEND\:**\
 :green_circle: = Done\
 :yellow_circle: = Working on it\
-:red_circle: = Not started
+:red_circle: = Not started\
+:black_circle: = Undecided
 ### Iran/Ilam
 The province of Ilam in Iran, roughly the same geographical location as the ancient Elamite empire, the province of Ilam 
 is a spiritual successor to these ancient roots, thus the name. This province is on the borders of Iran on the west 
@@ -39,5 +40,7 @@ current roadmap for this project.\
 Grassy/Dirt Terrain :green_circle:\
 Mountainous Terrain :yellow_circle:\
 Factions :red_circle:\
+Resources :red_circle:\
+Custom Units :black_circle:\
 \
 ![Current Terrain](Nonfictional/Iran/Ilam/Ilam.png?raw=true)
