@@ -40,6 +40,7 @@ roadmap for this project.\
 **ROADMAP\:**\
 Grassy/Dirt Terrain :green_circle:\
 Mountainous Terrain :yellow_circle:\
+Forests :red_circle:\
 Factions :red_circle:\
 Resources :red_circle:\
 Custom Units :black_circle:\
